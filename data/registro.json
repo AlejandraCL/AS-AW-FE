@@ -1,0 +1,22 @@
+[
+    {
+        "nombre":"Alejandra",
+        "apellido":"Campos",
+        "telefono":"77179104"
+    },
+    {
+        "nombre":"Miguel",
+        "apellido":"Hernandez",
+        "telefono":"77179104"
+    },
+    {
+        "nombre":"Angel",
+        "apellido":"Lopez",
+        "telefono":"77179104"
+    },
+    {
+        "nombre":"Rodolfo",
+        "apellido":"Castillo",
+        "telefono":"77179104"
+    }
+]
